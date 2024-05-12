@@ -4,7 +4,7 @@ Full Stack Web Application developed using **React, Django & MySQL**. Course Pro
 ## Build
 
 ```
-git clone git@github.com:ChinmayPillai/Real_Estate_Broker_WebApp.git
+git clone https://github.com/utpaldwivedi/Real-Estate-Broker-WebApp.git
 ```
 
 ### Client 
